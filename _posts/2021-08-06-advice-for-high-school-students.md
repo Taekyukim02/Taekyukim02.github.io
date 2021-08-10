@@ -12,17 +12,17 @@ I originally planned to write about general advice for high school students, but
 
 How many hours do you spend scrolling on your phone or computer with your brain switched off, not doing anything in particular? Would you say those hours are well-spent? 
 
-I expect that the standard answer will be "No, I wasted time," but I also wouldn't be surprised if someone argued for "Yes" with the idea that scrolling on their phone helps them relax. In that light, I think the concept of "wasting time" is difficult to pin down. A simple activity like Internet surfing can be fun and theraputic activity, but if you surf the Internet for hours upon hours, it's seems pretty safe to say that you wasted those hours. How, and where do we draw the line?
+I expect that the standard answer will be "No, I wasted time," but I also wouldn't be surprised if someone argued for "Yes" with the idea that scrolling on their phone helps them relax. In that light, I think the concept of "wasting time" is difficult to pin down. A simple activity like Internet surfing can be fun and therapeutic activity, but if you surf the Internet for hours upon hours, it seems pretty safe to say that you wasted those hours. How, and where do we draw the line?
 
 ### Inspiration from Economics
 
-Economics partly solves this problem with the idea of an "opportunity cost." Any time you make a decision, the choice you didn't make is the opportunity cost. For example, say we had a choice between two flavors of ice cream: chocolate and strawberry. If you pick the chocolate ice cream, then you lose out on the strawberry ice cream, so the opportunity to eat the strawberry ice cream is your opportunity cost. But you might say "Hey! I can still eat the strawberry ice cream if I get both!" Then, the opportunity cost here would be the doubled cost of two ice cream cones or maybe, "Not being able to have dinner because you ate too much ice cream."
+Economics partly solves this problem with the idea of an "opportunity cost." Any time you make a decision, the choice you didn't make is the opportunity cost. For example, say we had a choice between two flavors of ice cream: chocolate and strawberry. If you pick the chocolate ice cream, then you lose out on the strawberry ice cream, so the opportunity to eat the strawberry ice cream is your opportunity cost. But you might say "Hey! I can still eat the strawberry ice cream if I get both!" Then, the opportunity cost here would be the doubled cost of two ice cream cones or maybe, not being able to have dinner because you ate too much ice cream.
 
 If money isn't a problem and you already know you're going to have a small dinner, then your opportunity cost would be negligibly small, so there's little to no penalty for getting both ice cream cones. But the opportunity cost always exists for any decision you make, including the decision of how you should spend your time.
 
 ### Opportunity Cost of Time
 
-If you spend your time doing activity X, then the clear opportunity cost is not being able to do other activities (of course you could try to multitask, but that comes at the cost of splitting your attention and doing a worse job on all of the invovled activities...) Economics doesn't tell us what we should be doing with our time, but it does tell us what we lose if we don't spend it wisely --- time and potential to do other worthwhile things.
+If you spend your time doing activity X, then the clear opportunity cost is not being able to do other activities (of course you could try to multitask, but that comes at the cost of splitting your attention and doing a worse job on all of the involved activities...) Economics doesn't tell us what we should be doing with our time, but it does tell us what we lose if we don't spend it wisely --- time and potential to do other worthwhile things.
 
 Whenever you spend an hour scrolling through social media, you're missing out on an hour to spend with friends and family. Those three hours you spent napping in the afternoon could have been spent learning a new programming language or reading a book.
 
@@ -68,4 +68,3 @@ Listen closely to the super smart people who figured out everything before you, 
 
 
 [partial-ordering]: https://en.wikipedia.org/wiki/Partially_ordered_set
-[lazy-wheels]: /assets/lazy-wheels.png
