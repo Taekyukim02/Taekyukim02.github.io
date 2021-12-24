@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  "On Wasted Time"
-categories: advice
+category: advice
 ---
-I originally planned to write about general advice for high school students, but my first point on avoiding wasted time turned into a whole blog. I plan to write about the other points in a later blog post. I hope that someone else will find my advice worthwhile and can learn from my experiences. 
+I originally planned to write about general advice for high school students, but my first point on avoiding wasted time turned into a whole blog. I plan to write about the other points in a later blog post. I hope that someone else will find my advice worthwhile and can learn from my experiences.
+
+Some acknowledgements: this blog post wouldn't exist without the unending support of my lovely girlfriend and the reassuring words she gave during a particularly difficult time during college applications; I credit almost all the ideas in the second section to her. I'd also like to thank my high school economics teacher for teaching me about opportunity cost in such a hilarious and relatable way.
 
 
 ## Wasted Time
