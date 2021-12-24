@@ -13,7 +13,7 @@ Why is this the case? What's so special about a triangle so that a line can't pa
 
 To explain, let me define a special type of polygon, a convex polygon:
 
-<div class="definition">
+<div class="definition boxed">
 (Convex Polygon). A polygon is convex if, for every two points in its interior, the line segment through them is contained in the polygon.
 </div>
 
