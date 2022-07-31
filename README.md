@@ -7,3 +7,7 @@ The file I need to change are:
   - about.markdown
   - index.markdown
   - <other page>.markdown
+
+Build and view on local server:
+  - `bundle exec jekyll serve`
+
