@@ -33,7 +33,7 @@ By the end of each Euler Circle class, students were expected to have studied an
             <td>
 			<ul>
 			<li>Builds up theory of hyperbolic geometry, geodesics, and the uniformization theorem to lay down the necessary ingredients to study the Fatou and Julia sets, two pivotal sets in complex dynamics.</li>
-			<li>Proves the classication theorem of Fatou components.</li>
+			<li>Proves the classification theorem of Fatou components.</li>
 			</ul>
 			</td>
         </tr>
